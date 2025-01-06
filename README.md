@@ -1,1 +1,1 @@
-# testlib
+# testlib with thestlib-docs as a submodule
